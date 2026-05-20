@@ -4,8 +4,6 @@
 
 ![FreelaDash dashboard e timer mobile](public/assets/freeladash-readme-mobile-dashboard-timer.png)
 
-![FreelaDash clientes e cobranças mobile](public/assets/freeladash-readme-mobile-clients-invoices.png)
-
 Dashboard pessoal para freelancers gerenciarem clientes, projetos, registros de horas e cobranças em BRL.
 
 ## Rodar localmente
